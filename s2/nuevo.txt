@@ -1,0 +1,1 @@
+Esto es un texto que va para prueba.txtAhora aparece este texto en el archivo
